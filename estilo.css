@@ -1,0 +1,37 @@
+
+
+
+body {
+	
+	background:url(img/1.jpg);
+	background-position:auto ;
+}
+
+h1 {
+	color: white;
+	font-family: 'Do Hyeon', sans-serif;
+	position: relative;
+	bottom: -250px;
+
+
+}
+
+
+h2 {
+	color: white;
+	font-family: 'Do Hyeon', sans-serif;
+	position: relative;
+	bottom: -250px;
+
+}
+
+img {
+	border-radius: 50%;
+	border: 5px solid #fff;
+	position: relative;
+	bottom: -250px;
+
+
+
+}
+
